@@ -5,6 +5,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaradowuil&layout=compact" alt="alvaradowuil" /></p> 
 
+[![Wuil's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaradowuil)](https://github.com/alvaradowuil/github-readme-stats)
 
 <!---
 alvaradowuil/alvaradowuil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

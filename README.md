@@ -1,4 +1,7 @@
-<h1 align="left">Hi 👋, I'm Wuilder Alvarado</h1>
+![wdev-ad](https://user-images.githubusercontent.com/4116286/175557203-bcfe17a3-8ebe-459d-8f99-e36e0f0eaf19.svg)
+
+
+<h1 align="left">👋👋 Hi, I'm Wuilder Alvarado</h1>
 
 <p><img src="https://www.gstatic.com/devrel-devsite/prod/vb1c70bbe2f68b543db3deb1075af42e62f8f21e5fc703b8398dc6b9860f1711f/android/images/custom/android-blog-round-icon.svg" alt="android" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>

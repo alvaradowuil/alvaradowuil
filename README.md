@@ -68,5 +68,8 @@ Apasionado por la mejora continua y la creación de productos de alto impacto.
   _Aplicación móvil para colaboradores de Microfinanzas donde podrá realizar consultas de forma inmediata, fácil, segura y realizar las siguientes funciones._
 
 - 🚖 **ASSA Compañía de Seguros** – [Ver en Play Store](https://play.google.com/store/apps/details?id=com.assanet.movil&hl=es_419)  
-  _App para consultar y gestionar productos como asegurado._  
+  _App para consultar y gestionar productos como asegurado._
+
+- 🚖 **CTRLapp** – [Ver en Play Store](https://play.google.com/store/apps/details?id=com.globals.controlapp)  
+  _Red social para compartir información y fotos de vehículos reportados como hurtados o robados._  
 

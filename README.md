@@ -1,16 +1,72 @@
 ![wdev-ad](https://user-images.githubusercontent.com/4116286/175557203-bcfe17a3-8ebe-459d-8f99-e36e0f0eaf19.svg)
 
 
-<h1 align="left">👋👋 Hi, I'm Wuilder Alvarado</h1>
+<h1 align="left">👋👋 Hola, Soy Wuilder Alvarado</h1>
 
-<p><img src="https://www.gstatic.com/devrel-devsite/prod/vb1c70bbe2f68b543db3deb1075af42e62f8f21e5fc703b8398dc6b9860f1711f/android/images/custom/android-blog-round-icon.svg" alt="android" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
+Soy Ingeniero en Sistemas con más de 10 años desarrollando **aplicaciones Android nativas**.  
+Me especializo en **Java** y **Kotlin**, con experiencia en arquitecturas modernas, metodologías ágiles y liderazgo de equipos.  
+Apasionado por la mejora continua y la creación de productos de alto impacto.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaradowuil&layout=compact" alt="alvaradowuil" /></p> 
+---
 
-[![Wuil's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaradowuil)](https://github.com/alvaradowuil/github-readme-stats)
+## 🚀 Tecnologías y Herramientas
 
-<!---
-alvaradowuil/alvaradowuil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📱 Desarrollo Mobile
+- **Lenguajes & Frameworks:**  
+  - Android (Java, Kotlin)  
+  - [Jetpack Compose](#)  
+  - React Native  
+  - Flutter  
+  - SwiftUI  
+
+- **Arquitecturas & Patrones de Diseño:**  
+  - MVVM | MVP | MVC  
+  - Clean Architecture  
+  - Inyección de dependencias (Dagger Hilt)  
+  - Corrutinas (Kotlin Coroutines)  
+
+- **Integración con Servicios Web y Bases de Datos:**  
+  - Consumo de APIs REST usando **Retrofit** y **OkHttp**  
+  - Integración con **GraphQL (Apollo)**  
+  - Manejo de bases de datos locales: **SQLite (Room, GreenDao)**  
+  - Experiencia en **Firebase Realtime Database** y **Firestore**  
+  - Couchbase
+
+---
+
+- **Servicios Firebase:**  
+  - Authentication (autenticación de usuarios)  
+  - Realtime Database  
+  - Firestore  
+  - App Distribution (gestión de versiones de prueba)  
+  - Remote Config (configuración remota de funcionalidades)  
+  - Cloud Messaging (Notificaciones Push)  
+  - Google Maps SDK (integración de mapas y geolocalización)  
+
+
+---
+
+### 🔧 DevOps, Control de Versiones & Administración
+- Git (GitHub, GitLab)
+- GitHub Actions (CI/CD)  
+- Configuración de Proyectos: BuildTypes, Product Flavors, Build Variants  
+- Administración de apps en **Play Store** (alfa, beta, producción)  
+
+---
+
+### 📋 Metodologías & Gestión
+- SCRUM (Product Owner, Scrum Master, Developer)  
+- Jira Software  
+- Definición de MVP  
+- Planificación, estimación y seguimiento de proyectos  
+
+---
+
+## 📂 Portafolio (Apps Publicadas en Play Store)
+
+- 📱 **Bi Microfinanzas** – [Ver en Play Store](https://play.google.com/store/apps/details?id=com.gt.bi.microfinanzas&hl=es_419)  
+  _Aplicación móvil para colaboradores de Microfinanzas donde podrá realizar consultas de forma inmediata, fácil, segura y realizar las siguientes funciones._
+
+- 🚖 **ASSA Compañía de Seguros** – [Ver en Play Store](https://play.google.com/store/apps/details?id=com.assanet.movil&hl=es_419)  
+  _App para consultar y gestionar productos como asegurado._  
+
